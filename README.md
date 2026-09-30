@@ -25,9 +25,8 @@ Método de vendas consultivas de Neil Rackham, baseado em pesquisa com milhares 
 | **I**mplicação | Mostrar o impacto do problema | "Isso afeta o prazo de entrega ou o custo?" |
 | **N**ecessidade de solução | Fazer o cliente enxergar o valor | "Se isso fosse resolvido, o que mudaria para o time?" |
 
-## 📚 Fontes carregadas
 
-## 📚 Fontes carregadas
+## Fontes carregadas
 
 livro original do Neik Rackham (SPIN SELLING)
 https://www.highspot.com/blog/spin-selling/
