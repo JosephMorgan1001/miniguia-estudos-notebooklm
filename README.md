@@ -18,11 +18,14 @@ Notebook criado no NotebookLM com fontes sobre **SPIN Selling**, para treinar co
 
 Método de vendas consultivas de Neil Rackham, baseado em pesquisa com milhares de reuniões de vendas. Em vez de empurrar o produto, você conduz a conversa com quatro tipos de pergunta:
 
-| Etapa |               |Objetivo |                        | Exemplo |
+| Etapa | Objetivo | Exemplo |
+|---|---|---|
 | **S**ituação | Entender o contexto do cliente | "Como vocês fazem esse processo hoje?" |
 | **P**roblema | Descobrir dores e dificuldades | "Onde esse processo mais trava?" |
 | **I**mplicação | Mostrar o impacto do problema | "Isso afeta o prazo de entrega ou o custo?" |
 | **N**ecessidade de solução | Fazer o cliente enxergar o valor | "Se isso fosse resolvido, o que mudaria para o time?" |
+
+## 📚 Fontes carregadas
 
 ## 📚 Fontes carregadas
 
